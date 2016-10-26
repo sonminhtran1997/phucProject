@@ -1,0 +1,5 @@
+﻿  StandardDeviation.c
+e:\cs 131\project2\phuc_le_project2\standarddeviation.c(131): warning C4013: 'gets' undefined; assuming extern returning int
+e:\cs 131\project2\phuc_le_project2\standarddeviation.c(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Phuc_Le_Project2.vcxproj -> E:\CS 131\Project2\Phuc_Le_Project2\Debug\Phuc_Le_Project2.exe
+  Phuc_Le_Project2.vcxproj -> E:\CS 131\Project2\Phuc_Le_Project2\Debug\Phuc_Le_Project2.pdb (Full PDB)
